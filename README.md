@@ -3,6 +3,8 @@ js,canva,html tabanlı oyun projesi
 
 https://elifyadairem.github.io/JSoyun/
 
+Oynanış videosu-https://www.youtube.com/watch?v=9hLIarz4w9M
+
 ## Temel Oyun Görüntüsü
 
 ![Oyun Ekranı](./imgFrog.png)
