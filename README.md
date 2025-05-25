@@ -1,7 +1,7 @@
 # JSoyun
 js,canva,html tabanlı oyun projesi
 
-## Ekran Görüntüsü
+## Temel Oyun Görüntüsü
 
 ![Oyun Ekranı](./imgFrog.png)
 
@@ -25,6 +25,9 @@ Müzik ve Ses Efektleri: Atmosferik arka plan müziği ve kurbağa sesleri
 Görsel Efektler: Yanma animasyonları ve portal efektleri
 Responsive Kontroller: Klavye ve mouse desteği
 
+## Portal ve Tongue Mekaniği
+
+![Portal](./imgPortal.png)
 
 
 Kontroller
