@@ -1,6 +1,10 @@
 # JSoyun
 js,canva,html tabanlı oyun projesi
 
+## Ekran Görüntüsü
+
+![Oyun Ekranı](./imgFrog.png)
+
 
 🎮 Oyun Hakkında
 Kurbağa Avı, oyuncuların yeşil bir kurbağa kontrolü altında çeşitli böcekleri yakalayarak puan topladığı survival tarzı bir oyundur. Ancak dikkat! Haritada yanan portallar var ve bunlara girmeye çalışırsanız kurbağan yanar!
@@ -55,23 +59,33 @@ Oyunu başlatın
     index.html dosyasını çift tıklayarak tarayıcıda açın
 
 Bilinen Sorunlar ve Gelecek Planları
+
+
   Mevcut Sorunlar
-    Bazı tarayıcılarda ses dosyaları otomatik başlamayabilir
-    Çok yüksek skorlarda performans düşüşü olabilir
-    Yanma ve Retry ekranı düzgün çalışamamaktadır
-    Portal ve Böcek sayıları düzgün spawnlanmamaktadır
+    -Bazı tarayıcılarda ses dosyaları otomatik başlamayabilir
+    -Çok yüksek skorlarda performans düşüşü olabilir
+    -Yanma ve Retry ekranı düzgün çalışamamaktadır
+    -Portal ve Böcek sayıları düzgün spawnlanmamaktadır
+
+
 
 Gelecek Güncellemeler(Yapılmak istenenler)
-   Tasarlanılan oyun mekaniğinde kurbağanın belirli skor seviyelerinde hareket karmaşıklığı yaratıp puan toplamasını zorlaştırmak (skor 50 olduğunda oyuncu sağa gitmek isterse kurbaga sola hareket etsin vb.)
-    Farklı kurbağa karakterleri
-    Daha fazla böcek türü
+
+
+  - Tasarlanılan oyun mekaniğinde kurbağanın belirli skor seviyelerinde hareket karmaşıklığı yaratıp 
+   puan toplamasını zorlaştırmak (skor 50 olduğunda oyuncu sağa gitmek isterse kurbaga sola hareket etsin vb.)
+   - Farklı kurbağa karakterleri
+    -Daha fazla böcek türü
+
 
   TEŞEKKÜRLER
-  Assetler için -https://patchworkpx.itch.io/lil-froggy
-                -https://jeevo.itch.io/insect-enemies
+
   
-  Ses ve Müzik için - https://www.chosic.com/download-audio/39324/
-                    - https://pixabay.com/sound-effects/frog-croaking-sound-effect-322956/
+    Assetler için   -https://patchworkpx.itch.io/lil-froggy
+                    -https://jeevo.itch.io/insect-enemies
+  
+  Ses ve Müzik için   - https://www.chosic.com/download-audio/39324/
+                      - https://pixabay.com/sound-effects/frog-croaking-sound-effect-322956/
 
   
 
