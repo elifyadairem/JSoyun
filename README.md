@@ -1,6 +1,8 @@
 # JSoyun
 js,canva,html tabanlı oyun projesi
 
+https://elifyadairem.github.io/JSoyun/
+
 ## Temel Oyun Görüntüsü
 
 ![Oyun Ekranı](./imgFrog.png)
