@@ -1,5 +1,6 @@
 # Yapay Zeka Kullanımı
 
+JS oyun projesinin yapım ve yüklenim aşamalarında çeşitli yapay zeka araçlarından(https://chatgpt.com/,https://www.deepseek.com/,https://grok.com/...) yardımlar alınmış ve promptlara verilen  sonuçlar karşılaştırılıp en optimize olanı ile devam edilmiştir.
 
 ## Kullanım Amaçları
 
